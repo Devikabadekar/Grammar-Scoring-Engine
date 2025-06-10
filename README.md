@@ -1,4 +1,4 @@
-# 📘 Grammar Scoring Engine
+# 📘 Vocal Grader - Grammer Scoring Engine 
 
 The **Grammar Scoring Engine** is a Python-based AI system that evaluates the grammatical correctness of spoken audio inputs. It uses speech-to-text and natural language processing (NLP) techniques to analyze user speech and generate a grammar score.
 
